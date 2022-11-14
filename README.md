@@ -3,7 +3,12 @@
 # Daily Tasks App
 ### Mobile Application for organizing daily tasks.
 
+## Featues:
+- Add Tasks
+- Archieve Tasks
+- Done Tasks
 
-## Technologies:
-- Sqflite
+## Implementation:
 - Bloc
+- intl
+- sqflite
